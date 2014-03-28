@@ -1,0 +1,40 @@
+unnamed_net39	D103-14 D102-14 U101-14 
+unnamed_net38	D103-11 D102-11 U101-15 
+unnamed_net37	D102-16 D103-16 U101-16 
+unnamed_net36	D102-15 D103-15 U101-17 
+unnamed_net35	R101-1 U101-18 
+unnamed_net34	D102-13 D103-13 U101-20 
+unnamed_net33	D102-5 U101-21 
+unnamed_net32	D103-7 U101-22 
+unnamed_net31	D103-3 D102-3 U101-23 
+unnamed_net30	D102-2 U101-11 
+unnamed_net29	D103-2 U101-10 
+unnamed_net28	D103-8 U101-8 
+unnamed_net27	D102-8 U101-7 
+unnamed_net26	D102-6 U101-6 
+unnamed_net25	D103-6 U101-5 
+unnamed_net24	D103-1 U101-3 
+unnamed_net23	D102-1 U101-2 
+unnamed_net22	U101-13 CONN100-3 U100-13 
+unnamed_net21	D101-14 D100-14 U100-14 
+unnamed_net20	D101-11 D100-11 U100-15 
+unnamed_net19	D100-16 D101-16 U100-16 
+unnamed_net18	D100-15 D101-15 U100-17 
+unnamed_net17	R100-1 U100-18 
+unnamed_net16	C101-1 C100-1 C103-1 C102-1 R101-2 U101-19 R100-2 CONN100-4 U100-19 
+unnamed_net15	D100-13 D101-13 U100-20 
+unnamed_net14	D100-5 U100-21 
+unnamed_net13	D101-7 U100-22 
+unnamed_net12	D101-3 D100-3 U100-23 
+unnamed_net11	U101-1 U100-24 
+unnamed_net10	CONN100-1 U101-12 U100-12 
+unnamed_net9	D100-2 U100-11 
+unnamed_net8	D101-2 U100-10 
+unnamed_net7	D101-8 U100-8 
+unnamed_net6	D100-8 U100-7 
+unnamed_net5	D100-6 U100-6 
+unnamed_net4	D101-6 U100-5 
+GND	CONN100-5 C103-2 C102-2 U101-9 U101-4 C101-2 C100-2 U100-9 U100-4 
+unnamed_net3	D101-1 U100-3 
+unnamed_net2	D100-1 U100-2 
+unnamed_net1	CONN100-2 U100-1 

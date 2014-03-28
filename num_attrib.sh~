@@ -1,0 +1,4 @@
+#!/bin/bash
+refdes_renum Clock_1.sch Clock_2.sch Clock_3.sch --pgskip         
+gattrib Clock_1.sch Clock_2.sch Clock_3.sch
+gnetlist -g bom2 -o bom.txt Clock_1.sch Clock_2.sch Clock_3.sch
